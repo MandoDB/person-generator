@@ -1,13 +1,13 @@
 {
   "name": "thispersondoesnotexist",
   "version": "1.0.6",
-  "description": "",
+  "description": "This script generate person who does exist.",
   "main": "index.js",
   "scripts": {
     "start": "node index"
   },
-  "keywords": ['generator', 'person', 'MandoDB', 'image', 'api'],
-  "author": "MandoDB#9845",
+  "keywords": [],
+  "author": "MandoDB",
   "license": "ISC",
   "dependencies": {
     "cli-color": "^2.0.1",
@@ -15,5 +15,14 @@
     "http": "^0.0.1-security",
     "https": "^1.0.0",
     "stream": "^0.0.2"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MandoDB/person-generator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MandoDB/person-generator/issues"
+  },
+  "homepage": "https://github.com/MandoDB/person-generator#readme"
 }
