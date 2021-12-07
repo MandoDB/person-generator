@@ -25,10 +25,11 @@ You can [download](https://github.com/MandoBD/person-generator) for Windows, mac
 This software uses the following open source packages:
 
 - [Node.js](https://nodejs.org/)
-
-## License
-
-MIT
+- [fs](https://www.npmjs.com/package/fs)
+- [stream](https://www.npmjs.com/package/stream)
+- [cli-color](https://www.npmjs.com/package/cli-color)
+- [http](https://www.npmjs.com/package/http)
+- [https](https://www.npmjs.com/package/https)
 
 ---
 
