@@ -33,5 +33,5 @@ This software uses the following open source packages:
 
 ---
 
-> GitHub [@amitmerchant1990](https://github.com/MandoDB) &nbsp;&middot;&nbsp;
+> GitHub [@MandoDB](https://github.com/MandoDB) &nbsp;&middot;&nbsp;
 
