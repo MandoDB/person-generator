@@ -32,5 +32,5 @@ MIT
 
 ---
 
-> GitHub [@amitmerchant1990](https://github.com/amitmerchant1990) &nbsp;&middot;&nbsp;
+> GitHub [@amitmerchant1990](https://github.com/MandoDB) &nbsp;&middot;&nbsp;
 
