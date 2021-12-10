@@ -13,6 +13,12 @@ $ npm install
 $ node index
 ```
 
+Person who see my profile :
+
+<p align="center">
+  <img src ="https://profile-counter.glitch.me/MandoDB/count.svg"/>
+</p>
+
 Note: If you're using Linux Bash for Windows, [see this guide](https://www.howtogeek.com/261575/how-to-run-graphical-linux-desktop-applications-from-windows-10s-bash-shell/) or use `node` from the command prompt.
 
 
@@ -34,8 +40,3 @@ This software uses the following open source packages:
 ---
 
 > GitHub [@MandoDB](https://github.com/MandoDB) &nbsp;&middot;&nbsp;
-
-
-<p align="center">
-  <img src ="https://profile-counter.glitch.me/MandoDB/count.svg"/>
-</p>
