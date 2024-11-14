@@ -47,7 +47,7 @@ function start() {
         function timeoutFunc() {
 
             console.log(clc.redBright(`[`), clc.whiteBright(` + `), clc.redBright(`] `), clc.whiteBright(`- person-${i+1}.png`))
-            Download('https://thispersondoesnotexist.com/image', `./person/person-${i+1}.png`)
+            Download('https://thispersondoesnotexist.com/', `./person/person-${i+1}.png`)
             i++
             setTimeout(timeoutFunc, 1500);
         }
